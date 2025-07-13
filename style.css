@@ -1,0 +1,54 @@
+
+.logo
+{
+    height: 90px;
+}
+.header
+{
+    display: flex;
+    justify-content: space-around;
+}
+.section2
+{
+    display: flex;
+}
+.gias
+{
+    height :600px;
+    width : 400px;
+    padding:50px;
+    margin-left: 500px;
+}
+.about
+{
+    margin-left: 100px;
+    padding: 20px
+}
+.about2
+{
+    margin-top:40px;
+}
+.card-section
+{
+   align-items: center;
+}
+.section3
+{
+    margin-left: 20px;
+    justify-content: center;
+}
+.buttons
+{
+    margin : 10px;
+}
+.buttons-comfort
+{
+    margin: 10px;
+}
+.tools{
+    margin: 10px;
+}
+.form
+{
+    margin: 10px;
+}
