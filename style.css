@@ -1,4 +1,10 @@
 
+@media (max-width: 768px) {
+  .gias {
+    max-width: 100%;
+    height: auto;
+  }
+}
 .logo
 {
     height: 90px;
@@ -12,12 +18,10 @@
 {
     display: flex;
 }
-.gias
-{
-    height :600px;
-    width : 400px;
-    padding:50px;
-    margin-left: 500px;
+.gias {
+  max-height: 500px;
+  width: auto;
+  border-radius: 10px;
 }
 .about
 {
